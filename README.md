@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @678Marco
-- 👀 Estoy interesado en la ciber seguridad, desarrollo web, base de datos.
+- 👋 Hola, Soy @678Marco
+- 👀 Estoy interesado en la Ciber Seguridad, Desarrollo web, Base de datos.
 - 🌱 Actualmente aprendiendo Front End
 - 💞️ No estoy buscando colaborar con nada ahora mismo, recien estoy empezando.
